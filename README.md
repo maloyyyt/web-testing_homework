@@ -1,2 +1,2 @@
 # web-testing_homework
-Version control systems homework
+Простая веб страница с красивой картинкой.
